@@ -1,7 +1,5 @@
-# This script downloads discussion papers (dp) from 
+# This script downloads discussion papers (dp) from
 # the IZA-Institute of Labor Economics (ftp.iza site)
-# From: 1998 (dp1)
-# To: 08-2017 (10961)
 # Files are saved within the folder in which this file is stored
 # Version: v1.0
 # by Alexander Lammers
