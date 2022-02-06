@@ -16,8 +16,8 @@ This project consists of ***two parts:***
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4lexLammers/IZA_dp_network_analysis/master)
 
-## Interesting results
-
+## TOP10 Authors by published discussion papers (from start of series to dp No. 15053)
+![Drag Racing](TOP10_Authors.png)
 
 
 ## Acknowledgement
