@@ -9,10 +9,16 @@ This project consists of ***two parts:***
     <li>Run Part1_IZA_dp_scrape OR:</li>
     <li>Use paperlist.xlsx that contains all information up to February 2022</li>
    </ul>
-  <li> Program for descriptive and network analyis
+  <li> Program for descriptive and network analyis (Part2_IZA_dp_network_analysis)
 </ol>
 
+:point_right: Use Binder button below to work with the Jupyter files (might take some time to load)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4lexLammers/IZA_dp_network_analysis/master)
+
+## Interesting results
+
+
 
 ## Acknowledgement
 Code for network analysis draws from this [Kaggle competition](https://www.kaggle.com/aiswaryaramachandran/coauthor-network-analysis-using-graph-embeddings/notebook).
