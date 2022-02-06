@@ -15,3 +15,4 @@ This project consists of ***two parts:***
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4lexLammers/IZA_dp_network_analysis/master)
 
 ## Acknowledgement
+Code for network analysis draws from this [Kaggle competition](https://www.kaggle.com/aiswaryaramachandran/coauthor-network-analysis-using-graph-embeddings/notebook).
