@@ -12,5 +12,6 @@ This project consists of ***two parts:***
   <li> Program for descriptive and network analyis
 </ol>
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4lexLammers/IZA_dp_network_analysis/master)
 
 ## Acknowledgement
