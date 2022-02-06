@@ -12,7 +12,7 @@ This project consists of ***two parts:***
   <li> Program for descriptive and network analyis (Part2_IZA_dp_network_analysis)
 </ol>
 
-## Run
+## Interactive Notebook playground
 :point_right: Use Binder button below to work with the Jupyter files (might take some time to load)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4lexLammers/IZA_dp_network_analysis/master)
