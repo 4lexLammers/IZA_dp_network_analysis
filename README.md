@@ -12,11 +12,12 @@ This project consists of ***two parts:***
   <li> Program for descriptive and network analyis (Part2_IZA_dp_network_analysis)
 </ol>
 
+## Run
 :point_right: Use Binder button below to work with the Jupyter files (might take some time to load)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4lexLammers/IZA_dp_network_analysis/master)
 
-## TOP10 Authors by published discussion papers (from start of series to dp No. 15053)
+## TOP10 Authors by published discussion papers
 ![Drag Racing](TOP10_Authors.png)
 
 
