@@ -18,7 +18,10 @@ This project consists of ***two parts:***
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4lexLammers/IZA_dp_network_analysis/master)
 
 ## TOP10 Authors by published discussion papers
-![Drag Racing](TOP10_Authors.png)
+![TOP10](TOP10_Authors.png)
+
+## Network: Analysis identifies 6 researcher cluster (in Jupyter interactive!)
+![Network](network.PNG)
 
 
 ## Acknowledgement
